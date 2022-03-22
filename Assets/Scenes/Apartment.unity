@@ -1392,6 +1392,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_House_InteriorWall_Door_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1634351802689424, guid: 123d7eee89ce3d14faecef772a63a9d0, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1634351802689424, guid: 123d7eee89ce3d14faecef772a63a9d0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 4274370554507324, guid: 123d7eee89ce3d14faecef772a63a9d0, type: 3}
       propertyPath: m_RootOrder
       value: 0
