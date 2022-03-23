@@ -1,4 +1,0 @@
-repository "Jen"
-  path "/"
-    br "/main"
-    co "/main"
